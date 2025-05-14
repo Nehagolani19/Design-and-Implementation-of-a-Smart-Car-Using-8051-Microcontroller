@@ -10,7 +10,6 @@ This project demonstrates how to control a robotic car wirelessly using a **Blue
 - **Platform**: AT89C51 Microcontroller
 - **Interface**: HC-05 Bluetooth Module
 - **Submitted by**:
-  - Ditsa Patel (22BEC036)
   - Neha Golani (22BEC042)
 - **Guides**: Dr. Jayesh Patel, Purvi Patel
 - **Department**: ECE, Nirma University
