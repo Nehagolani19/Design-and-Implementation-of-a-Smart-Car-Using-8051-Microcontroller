@@ -104,5 +104,5 @@ This project demonstrates how to control a robotic car wirelessly using a **Blue
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
