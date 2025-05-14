@@ -9,8 +9,7 @@ This project demonstrates how to control a robotic car wirelessly using a **Blue
 - **Title**: Bluetooth-Controlled Robotic Car using 8051
 - **Platform**: AT89C51 Microcontroller
 - **Interface**: HC-05 Bluetooth Module
-- **Submitted by**:
-  - Neha Golani (22BEC042)
+- **Submitted by**: Neha Golani (22BEC042)
 - **Guides**: Dr. Jayesh Patel, Purvi Patel
 - **Department**: ECE, Nirma University
 - **Course**: 2EC701 - Microcontroller and Interfacing
